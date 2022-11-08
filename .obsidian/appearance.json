@@ -1,0 +1,9 @@
+{
+  "cssTheme": "System",
+  "theme": "system",
+  "enabledCssSnippets": [
+    "image-zoom"
+  ],
+  "baseFontSize": 17,
+  "accentColor": "#4285f4"
+}

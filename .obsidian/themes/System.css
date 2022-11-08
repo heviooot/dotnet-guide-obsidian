@@ -1,0 +1,13 @@
+b,
+strong,
+.cm-strong {
+  color: #4285f4;
+}
+i,
+em,
+.cm-em {
+  color: #0f9d58;
+}
+.cm-inline-code {
+  color: #c21f1f;
+}

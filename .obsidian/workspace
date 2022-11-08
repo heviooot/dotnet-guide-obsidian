@@ -1,0 +1,202 @@
+{
+  "main": {
+    "id": "0c5a70a3c39ac6fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "eae83081120a3098",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "700RFN/Youtube-dl format code cheatsheet.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0bfafa475fa656cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e882416ad7d96be",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5164814fc3fd0661",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fff776a0b8c5ee0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "from",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86178e03427b8eb5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5
+  },
+  "right": {
+    "id": "49d53fb8085fdead",
+    "type": "split",
+    "children": [
+      {
+        "id": "1bd037b983ff6ce3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fffcc3f956d3a404",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "700RFN/Youtube-dl format code cheatsheet.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "939482fb24d50368",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "700RFN/Youtube-dl format code cheatsheet.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ffee1f33d66ab333",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "700RFN/Youtube-dl format code cheatsheet.md"
+              }
+            }
+          },
+          {
+            "id": "8940940f67329cb4",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "700RFN/Youtube-dl format code cheatsheet.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            }
+          },
+          {
+            "id": "922aa26845b5b414",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "e80cfa5c623a8288",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a678fb04094e08e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3c3f7a6be097987",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 250.5
+  },
+  "active": "fff776a0b8c5ee0e",
+  "lastOpenFiles": [
+    "Files/Career Hype doc example.png",
+    "Files/Learning_Card-Fountain_Institute-v1.4-800x1080.pdf",
+    "Files/Experiment_Card-Fountain_Institute-v1.4-800x1080.pdf",
+    "700RFN/Youtube-dl format code cheatsheet.md",
+    "700RFN/How to eliminate if-else chain, for long life software.md",
+    "700RFN/Turn around your Git mistakes in 17 ways.md",
+    "700RFN/What are the best platforms to write technical articles?.md",
+    "700RFN/Advice for Junior Developers.md",
+    "700RFN/Use These 7 Tips to Help You Learn Computer Programming Faster.md",
+    "700RFN/self in Python class.md"
+  ]
+}
